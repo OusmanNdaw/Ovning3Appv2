@@ -14,4 +14,9 @@ public class Animal
 
 		DoSound();
 	}
+
+    private void DoSound()
+    {
+        throw new NotImplementedException();
+    }
 }
