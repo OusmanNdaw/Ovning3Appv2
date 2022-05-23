@@ -11,5 +11,7 @@ public class Animal
 		Animal Worm = new Animal();
 		Animal Bird = new Animal();
 		Animal Wolf = new Animal();
+
+		DoSound();
 	}
 }
